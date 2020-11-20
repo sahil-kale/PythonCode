@@ -1,4 +1,4 @@
 # PythonCode
- Random Python functions that have been useful
-Pip install windows command:
-py -v 3 sudo pip install keyboard
+ Random Python functions that have been useful <br/>
+Pip install windows command: <br/>
+py -m pip install keyboard
