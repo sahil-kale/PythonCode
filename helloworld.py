@@ -1,4 +1,4 @@
-import serial
+#import serial
 
 print("hello world")
 
